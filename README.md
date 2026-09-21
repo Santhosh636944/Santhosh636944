@@ -66,12 +66,6 @@ I am currently pursuing my <strong>Master of Computer Applications (MCA)</strong
   <img src="https://raw.githubusercontent.com/Santhosh636944/Santhosh636944/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Santhosh636944/Santhosh636944/output/github-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
