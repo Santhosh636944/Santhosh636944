@@ -30,52 +30,17 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+<p align="left">
+I am currently pursuing my <strong>Master of Computer Applications (MCA)</strong> with a strong interest in technology, programming, software development, and AI. I enjoy learning new technologies, building practical projects, and improving my problem-solving skills.
+</p>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Santhosh S"
-        self.roles = [
-            "Full-Stack Developer",
-            "AI Enthusiast"
-        ]
-        self.location = "India 🇮🇳"
-        self.education = "Master of Computer Applications (MCA)"
-
-    def tech_stack(self):
-        return {
-            "languages": [
-                "C", "C++", "Java", "JavaScript",
-                "PHP", "Python", "PowerShell"
-            ],
-            "frontend": [
-                "React", "HTML/CSS", "Bootstrap"
-            ],
-            "backend": [
-                "Node.js", "Express.js", "Django", ".NET"
-            ],
-            "databases": [
-                "MySQL", "Microsoft SQL Server", "MongoDB"
-            ],
-            "cloud_devops": [
-                "AWS", "Azure", "Google Cloud",
-                "Docker", "Terraform", "Git", "GitHub"
-            ],
-            "design_tools": [
-                "Canva", "Figma", "Adobe Photoshop",
-                "Lightroom Classic", "Dreamweaver"
-            ]
-        }
-
-    def current_focus(self):
-        return [
-            "🚀 Building impactful software & AI workflows",
-            "🌱 Improving full-stack and cloud skills",
-            "👯 Open-source collaborations & hackathons",
-            "⚡ Solving problems with code and curiosity ☕"
-        ]
-```
+<p align="left">
+🚀 <strong>Currently exploring:</strong> Full-Stack Development, AI workflows, Cloud & DevOps<br/>
+💻 <strong>Working with:</strong> Python, Java, JavaScript, React, Node.js, MongoDB & more<br/>
+🌱 <strong>Learning:</strong> Modern software development, AI tools and scalable systems<br/>
+🤝 <strong>Interested in:</strong> Open-source projects, hackathons, internships & collaborations<br/>
+☕ <strong>Developer mode:</strong> Build → Debug → Learn → Repeat
+</p>
 
 ## 🔥 Streak Stats
 
