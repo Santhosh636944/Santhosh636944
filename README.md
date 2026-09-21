@@ -42,6 +42,43 @@ I am currently pursuing my <strong>Master of Computer Applications (MCA)</strong
 ☕ <strong>Developer mode:</strong> Build → Debug → Learn → Repeat
 </p>
 
+## 🧩 Currently Building
+
+<p align="left">
+🔹 AI-powered applications and developer tools<br/>
+🔹 Full-stack web applications<br/>
+🔹 AI & automation workflows<br/>
+🔹 Practical projects that combine software development with emerging technologies
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 📧 <strong>Email → SMS Converter</strong> | AI-powered email classification and multi-channel notification system | Python • AI • MongoDB |
+| 🎯 <strong>Placement Strategy Generator</strong> | AI-assisted platform for personalized placement preparation | React • Node.js • MongoDB • Claude API |
+| 🚢 <strong>WININDIA Shipping & Logistics</strong> | Corporate website for a shipping and logistics company | Web Development |
+
+## 🤖 AI & Automation
+
+<p align="center">
+  <code>LangChain</code> &nbsp;
+  <code>AutoGen</code> &nbsp;
+  <code>Ollama</code> &nbsp;
+  <code>LM Studio</code> &nbsp;
+  <code>Flowise</code> &nbsp;
+  <code>n8n</code> &nbsp;
+  <code>Claude API</code>
+</p>
+
+## 🏆 Achievements & Activities
+
+- 🎓 Pursuing Master of Computer Applications (MCA)
+- 💻 Technical Ambassador for college technology activities
+- 🤖 Building AI, automation and full-stack projects
+- 🏗️ Working on practical mini-projects and developer workflows
+- 🚀 Participating in hackathons and technical activities
+
 ## 🌐 WININDIA Shipping & Logistics
 
 <p align="center">
@@ -54,6 +91,18 @@ I am currently pursuing my <strong>Master of Computer Applications (MCA)</strong
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,html,css,react,nodejs,express,django,dotnet,mysql,mongodb,aws,azure,gcp,docker,terraform,git,github,linux&perline=8" alt="Technology stack"/>
+</p>
+
+## 📚 Currently Learning
+
+<p align="center">
+  <code>Data Structures & Algorithms</code> &nbsp;
+  <code>System Design</code> &nbsp;
+  <code>Generative AI</code> &nbsp;
+  <code>Cloud</code> &nbsp;
+  <code>DevOps</code> &nbsp;
+  <code>Docker</code> &nbsp;
+  <code>AWS</code>
 </p>
 
 ## 🕹️ Pac-Man Eats My Contributions!
