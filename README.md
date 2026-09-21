@@ -26,6 +26,12 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
 </p>
 
+<p align="center">
+  <a href="https://www.winindiashipping.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WININDIA%20Shipping%20%26%20Logistics-Visit%20Company%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e27" alt="WININDIA Shipping & Logistics"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
