@@ -26,12 +26,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
 </p>
 
-<p align="center">
-  <a href="https://www.winindiashipping.com/" target="_blank">
-    <img src="https://img.shields.io/badge/WININDIA%20Shipping%20%26%20Logistics-Visit%20Company%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e27" alt="WININDIA Shipping & Logistics"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -48,10 +42,12 @@ I am currently pursuing my <strong>Master of Computer Applications (MCA)</strong
 ☕ <strong>Developer mode:</strong> Build → Debug → Learn → Repeat
 </p>
 
-## 🔥 Streak Stats
+## 🌐 WININDIA Shipping & Logistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Santhosh636944/Santhosh636944/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+  <a href="https://www.winindiashipping.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WININDIA%20Shipping%20%26%20Logistics-Visit%20Company%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0e27" alt="WININDIA Shipping & Logistics"/>
+  </a>
 </p>
 
 ## 🛠️ Tech Stack & Tools
